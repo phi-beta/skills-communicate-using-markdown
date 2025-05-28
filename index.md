@@ -10,6 +10,10 @@ sdf
 sdfsdf
 sdfsdf
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ##### ABC5
 
@@ -17,3 +21,7 @@ sdfsf
 sdf
 sd
 fsd
+
+``` javascript
+var myVar = "Hello, world!";
+```
